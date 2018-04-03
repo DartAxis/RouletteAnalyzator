@@ -1,2 +1,2 @@
 # RouletteAnalyzator
-Analize many spins of roulette
+Analyzes a lot of roulette spins
